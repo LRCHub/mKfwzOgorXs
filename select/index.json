@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ノマド (self cover)",
+  "base_artist": "須田景凪",
+  "createdAt": "2025-12-04T08:18:13.908129Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ノマド",
+      "artist": "25時、ナイトコードで。 feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音リン",
+      "has_synced": true,
+      "path": "select/01_ノマド_25時、ナイトコードで。_feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ノマド",
+      "artist": "須田景凪",
+      "has_synced": true,
+      "path": "select/02_ノマド_須田景凪.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ノマド",
+      "artist": "balloon",
+      "has_synced": true,
+      "path": "select/03_ノマド_balloon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ノマド (Self Cover)",
+      "artist": "須田景凪",
+      "has_synced": true,
+      "path": "select/04_ノマド_(Self_Cover)_須田景凪.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ノマド",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/05_ノマド_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ノマド",
+      "artist": "柴田淳",
+      "has_synced": true,
+      "path": "select/06_ノマド_柴田淳.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ノマド (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音リン)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/07_ノマド_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音リン)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ノマド -instrumental-",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/08_ノマド_-instrumental-_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ノマド - self cover",
+      "artist": "須田景凪",
+      "has_synced": false,
+      "path": "select/pl_01_ノマド_-_self_cover_須田景凪.txt"
+    }
+  ]
+}
